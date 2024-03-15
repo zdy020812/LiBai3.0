@@ -1,0 +1,3884 @@
+{
+    "nodes": [
+        {
+            "name": "李白",
+            "category": 0,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 56
+        },
+        {
+            "name": "李暠",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 6
+        },
+        {
+            "name": "许圉师",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 3
+        },
+        {
+            "name": "李客",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 7
+        },
+        {
+            "name": "李阳冰",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 5
+        },
+        {
+            "name": "许氏（李白妻）",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 4
+        },
+        {
+            "name": "宗氏（李白妻）",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 3
+        },
+        {
+            "name": "李月圆",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 6
+        },
+        {
+            "name": "李平阳",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 4
+        },
+        {
+            "name": "李伯禽",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 4
+        },
+        {
+            "name": "李颇黎",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 4
+        },
+        {
+            "name": "李隆基（唐玄宗）",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 15
+        },
+        {
+            "name": "李祗",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 9
+        },
+        {
+            "name": "宋若思",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "赵悦",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "汪伦",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "殷佐明",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "李宪（唐让皇帝）",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 9
+        },
+        {
+            "name": "张镐",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "李昭",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "释中孚",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "韦渠牟",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 2
+        },
+        {
+            "name": "贾至",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 4
+        },
+        {
+            "name": "李晔",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 4
+        },
+        {
+            "name": "赵蕤",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "陆游",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 47
+        },
+        {
+            "name": "皮日休",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 4
+        },
+        {
+            "name": "吴融",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 2
+        },
+        {
+            "name": "杜甫",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 22
+        },
+        {
+            "name": "于逖",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 3
+        },
+        {
+            "name": "元丹丘",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 3
+        },
+        {
+            "name": "张谓",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "杨利物",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "吴指南",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "孔巢父",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 3
+        },
+        {
+            "name": "裴政",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "李叔卿",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "韩准",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "史钦",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "陶沔",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "张叔明",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "郭子仪",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 5
+        },
+        {
+            "name": "陆调",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "高适",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 7
+        },
+        {
+            "name": "谢良辅",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 2
+        },
+        {
+            "name": "魏颢",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 4
+        },
+        {
+            "name": "李良",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "李黯",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "李璘",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 6
+        },
+        {
+            "name": "苏颋",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 6
+        },
+        {
+            "name": "贺知章",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "司马承祯",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "吴筠",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "张垍",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "高力士",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "章仇兼琼",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 1
+        },
+        {
+            "name": "杨玉环",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 8
+        },
+        {
+            "name": "尹氏",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李宝",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李歆",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李翻",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李豫",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "许浑",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李雍门",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李服之",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李怀一",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李行敦",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李旦（唐睿宗）",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杨知庆",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李真阳",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李洽",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "武曌(武则天）",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李治",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李显",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "窦诞",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "窦孝谌",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李淑",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李世民（唐太宗）",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "长孙氏（李世民妻）",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李琨",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李岵",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李崌",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李巘",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李恪",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李寅",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李复",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "刘氏（肃明顺圣皇后）",
+            "category": 1,
+            "desc": "肃明顺圣皇后",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李治（唐高宗）",
+            "category": 1,
+            "desc": "唐高宗",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "武曌（武则天）",
+            "category": 1,
+            "desc": "武则天",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李显（唐中宗）",
+            "category": 1,
+            "desc": "唐中宗",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "长孙皇后（李世民妻）",
+            "category": 1,
+            "desc": "李世民妻",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王维",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "韦永",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "贾曾",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "贾言忠",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李畬",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李鹏",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "李休烈",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "晏知止",
+            "category": 0,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 8
+        },
+        {
+            "name": "晏殊",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王乙",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王氏(晏知止妻)",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "晏固",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "晏颖",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "晏郜",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "晏容",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆宰",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "唐意",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆洙",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆洋",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆涭",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王氏(陆游妻)",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "某氏(陆游妾)",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆子程",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "桑世昌",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆子遹",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆一桂",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆佃",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "唐恕",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆珪",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆康民",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "陆涣",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "芮烨",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "孙叔豹",
+            "category": 2,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "张浚",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "曾几",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "戴复古",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "毛德昭",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "呂友德",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王嵎",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "饶节",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杨万里",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜旟",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "顾禧",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "施元之",
+            "category": 4,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "周必大",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "范成大",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "郑樵",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "尤袤",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "谭季壬",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王琳",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "辛弃疾",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "刘应时",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "范中立",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "吕友德",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "尹穡",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王时敘",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "林祖洽",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "胡僧孺",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王时叙",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "曾黯",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "秦桧",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "皮光业",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "皮粲",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "皮子良",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王定保",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜审言",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜闲",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杨怡",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杨氏（杜甫妻）",
+            "category": 1,
+            "desc": "杜甫妻",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜宗文",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜宗武",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜嗣业",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜莘老",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "贺㧑",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜登",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜依艺",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜复",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜鱼石",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杜礼",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "严武",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "卫某（卫八）",
+            "category": 5,
+            "desc": "卫八",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "苏源明",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "史思明",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "安禄山",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "元结",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "孟浩然",
+            "category": 5,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "孔如珪",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "孔务本",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "郭敬之",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "王氏（郭子仪妻）",
+            "category": 1,
+            "desc": "郭子仪妻",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "邵说",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "高郢",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "高崇文",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "高偘",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "高祐",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "张九皋",
+            "category": 6,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "谢良弼",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "魏殷",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "魏叔璘",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "苏瓌",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "苏传素",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "苏亶",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "苏振",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "苏夔",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杨玄琰",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "杨玄雨",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        },
+        {
+            "name": "魏征",
+            "category": 1,
+            "desc": "",
+            "itemStyle": "",
+            "citation": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": "李白",
+            "target": "李暠",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "九世祖;太高曾祖",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "许圉师",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "妻之祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李客",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李阳冰",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "族父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "许氏（李白妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "妻子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "宗氏（李白妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "第二任妻",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李月圆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "妹",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李平阳",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "女儿",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李伯禽",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李颇黎",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李隆基（唐玄宗）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白受唐玄宗之礼待，献文、书于唐玄宗",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李祗",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "宋若思",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "代宋若思作文",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "赵悦",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "代赵悦作文",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "汪伦",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "被李白送别",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "殷佐明",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "受殷佐明之赠物",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李宪（唐让皇帝）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "受李宪（唐让皇帝）之赠物",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "张镐",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "受张镐之赠物",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李昭",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "受李昭之赠物",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "释中孚",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "受释中孚之赠物",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "韦渠牟",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "学生",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "贾至",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "从贾至游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李晔",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "从李晔游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "赵蕤",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "从赵蕤学",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "陆游",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白诗作为陆游所称道",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "皮日休",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "文风为皮日休所称道",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "吴融",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "文风为吴融所称道",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "杜甫",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "于逖",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "元丹丘",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "张谓",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "杨利物",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "吴指南",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "晏知止",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "孔巢父",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "裴政",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李叔卿",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "韩准",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "史钦",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "陶沔",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "张叔明",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "郭子仪",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "相互帮助",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "陆调",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白得到过陆调的帮助",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "高适",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "谢良辅",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "魏颢",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李良",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李黯",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "与李白游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "李璘",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白为李璘幕僚",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "苏颋",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白被苏颋器重",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "贺知章",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白被贺知章器重",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "司马承祯",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白被司马承祯器重",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "吴筠",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白被吴筠推荐",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "张垍",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白遭到张垍的反对/攻讦",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "高力士",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白得罪高力士，遭到高力士的反对/攻讦",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "章仇兼琼",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "以诗讽忤章仇兼琼",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李白",
+            "target": "杨玉环",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "得罪杨玉环",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李暠",
+            "target": "尹氏",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "妻子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李暠",
+            "target": "李宝",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "长子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李暠",
+            "target": "李歆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "次子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李暠",
+            "target": "李翻",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "五子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李暠",
+            "target": "李豫",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "七子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "许圉师",
+            "target": "许浑",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "许圉师",
+            "target": "许氏（李白妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "孙女",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "李客",
+            "target": "许氏（李白妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "儿媳",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李客",
+            "target": "宗氏（李白妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "儿媳",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李客",
+            "target": "李月圆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "女",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李客",
+            "target": "李平阳",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "孙女",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李客",
+            "target": "李伯禽",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李客",
+            "target": "李颇黎",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李阳冰",
+            "target": "李雍门",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李阳冰",
+            "target": "李服之",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "李阳冰",
+            "target": "李怀一",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李阳冰",
+            "target": "李行敦",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "曾孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "许氏（李白妻）",
+            "target": "许圉师",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "许氏（李白妻）",
+            "target": "李客",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "许氏（李白妻）",
+            "target": "李月圆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白妹",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "宗氏（李白妻）",
+            "target": "李客",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白妹",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "宗氏（李白妻）",
+            "target": "李月圆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "李月圆",
+            "target": "许氏（李白妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "嫂",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李月圆",
+            "target": "宗氏（李白妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "嫂",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李月圆",
+            "target": "李平阳",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "女",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李月圆",
+            "target": "李伯禽",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李月圆",
+            "target": "李颇黎",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "李平阳",
+            "target": "李伯禽",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "弟",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李平阳",
+            "target": "李客",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "爷",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李平阳",
+            "target": "李月圆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "姑姑",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "李伯禽",
+            "target": "李平阳",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "姐",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李伯禽",
+            "target": "李客",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "爷",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李伯禽",
+            "target": "李月圆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "姑姑",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李颇黎",
+            "target": "李伯禽",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "李白次子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "李颇黎",
+            "target": "李客",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李颇黎",
+            "target": "李月圆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "姑姑",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "李旦（唐睿宗）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "杨知庆",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "岳父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "杨玉环",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "妾",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "李真阳",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "女儿",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "李洽",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "女儿",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "武曌(武则天）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖母",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "李治",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "李显",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "叔",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "窦诞",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "外曾祖",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "窦孝谌",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "外祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "李淑",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "孙女",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "李世民（唐太宗）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "曾祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "长孙氏（李世民妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "曾祖母",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "李隆基（唐玄宗）",
+            "target": "杜甫",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "收到杜甫所献诗、文、书",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李祗",
+            "target": "李琨",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李祗",
+            "target": "李岵",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李祗",
+            "target": "李崌",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李祗",
+            "target": "李巘",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李祗",
+            "target": "李恪",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李祗",
+            "target": "李寅",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李祗",
+            "target": "李世民（唐太宗）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "曾祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李祗",
+            "target": "李复",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "曾孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        
+        
+        
+        
+        {
+            "source": "李宪（唐让皇帝）",
+            "target": "李旦（唐睿宗）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李宪（唐让皇帝）",
+            "target": "刘氏（肃明顺圣皇后）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "母",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李宪（唐让皇帝）",
+            "target": "李治（唐高宗）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李宪（唐让皇帝）",
+            "target": "武曌（武则天）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖母",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李宪（唐让皇帝）",
+            "target": "李显（唐中宗）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "叔",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李宪（唐让皇帝）",
+            "target": "李世民（唐太宗）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "曾祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李宪（唐让皇帝）",
+            "target": "长孙皇后（李世民妻）",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "曾祖母",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+       
+        {
+            "source": "李宪（唐让皇帝）",
+            "target": "王维",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "从王维游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+       
+        
+        
+        
+        {
+            "source": "韦渠牟",
+            "target": "韦永",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "贾至",
+            "target": "贾曾",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "贾至",
+            "target": "贾曾",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "李晔",
+            "target": "李畬",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李晔",
+            "target": "李鹏",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李晔",
+            "target": "李休烈",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "曾祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "晏知止",
+            "target": "晏殊",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "晏知止",
+            "target": "王乙",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "岳父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "晏知止",
+            "target": "王氏(晏知止妻)",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "妻",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "晏知止",
+            "target": "晏固",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "晏知止",
+            "target": "晏颖",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "叔",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "晏知止",
+            "target": "晏郜",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "曾祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "晏知止",
+            "target": "晏容",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "堂兄弟",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "陆游",
+            "target": "陆宰",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "唐意",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "岳父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆洙",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "堂兄弟",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆洋",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "堂兄弟",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆涭",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "弟",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "王氏(陆游妻)",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "妻",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "某氏(陆游妾)",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "妾",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆子程",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "从子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "桑世昌",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "外甥",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆子遹",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆一桂",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "十六世孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆佃",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "唐恕",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "岳叔",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆珪",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "曾祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆康民",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "叔",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "陆涣",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "堂兄弟",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "芮烨",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "献文、书于芮烨",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "孙叔豹",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "受孙叔豹之请作序、记",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "张浚",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "为张浚之学生",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "曾几",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "为曾几学生",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "戴复古",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "学生为戴复古",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "毛德昭",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "从毛德昭游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "呂友德",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "从游者为呂友德",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "王嵎",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "同学、同门",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "饶节",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "称道饶节的诗作",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "陆游",
+            "target": "杨万里",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友，诗社成员",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "杜旟",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "称道杜旟之文风",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "顾禧",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "称道顾禧之文章、学问",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "施元之",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "称道施元之之文章、学问",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "周必大",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "范成大",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "郑樵",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "尤袤",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "谭季壬",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "王琳",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "辛弃疾",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "刘应时",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "范中立",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "吕友德",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "与吕友德游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "尹穡",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "同僚",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "王时敘",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "下属为王时敘",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "林祖洽",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "欣赏/器重",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "胡僧孺",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "欣赏/器重",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "王时叙",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "欣赏/器重",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "曾黯",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "推荐",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "陆游",
+            "target": "秦桧",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "为秦桧所忌/恶",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "皮日休",
+            "target": "皮光业",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "皮日休",
+            "target": "皮粲",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "孙子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "皮日休",
+            "target": "皮子良",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "曾孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "吴融",
+            "target": "王定保",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "女婿",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "杜甫",
+            "target": "杜审言",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜闲",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杨怡",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "岳父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杨氏（杜甫妻）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "妻子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜宗文",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "长子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜宗武",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "次子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜嗣业",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜莘老",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "直系后裔",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "贺㧑",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "姑父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜登",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "叔父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜依艺",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "曾祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜复",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "孙子",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜鱼石",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "杜甫 > 杜审言(祖父) > 杜依艺(父) > 杜鱼石(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "杜礼",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "杜甫 > 杜宗文(长子; 第一子) > 杜复(子) > 杜礼(子)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "李隆基（唐玄宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "献文、书于唐玄宗",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "高适",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "杜甫",
+            "target": "严武",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友，为严武之幕僚",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "卫某（卫八）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "苏源明",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "与苏源明游",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "史思明",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "忌/恶",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杜甫",
+            "target": "安禄山",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "忌/恶",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "于逖",
+            "target": "高适",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "于逖",
+            "target": "元结",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "元丹丘",
+            "target": "杜甫",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "收到杜甫的赠诗、文",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "元丹丘",
+            "target": "孟浩然",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "收到孟浩然的赠诗、文",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+       
+        {
+            "source": "孔巢父",
+            "target": "孔如珪",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "孔巢父",
+            "target": "孔务本",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "孔巢父 > 孔如珪(父) > 孔务本(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "郭子仪",
+            "target": "郭敬之",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "郭子仪",
+            "target": "王氏（郭子仪妻）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "郭子仪妻",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "郭子仪",
+            "target": "邵说",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "辟，接受邵说之纳降",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "郭子仪",
+            "target": "高郢",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "辟",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "高适",
+            "target": "高崇文",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "高适",
+            "target": "高偘",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "高适 > 高崇文(父) > 高偘(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "高适",
+            "target": "高祐",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "高适 > 高崇文(父) > 高偘(父) > 高祐(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "高适",
+            "target": "杜甫",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "高适",
+            "target": "于逖",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "友",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "高适",
+            "target": "张九皋",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "被张九皋推荐",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "谢良辅",
+            "target": "谢良弼",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "兄",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "魏颢",
+            "target": "魏殷",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "魏颢",
+            "target": "魏叔璘",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "魏颢 > 魏殷(父) > 魏叔璘(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "魏颢",
+            "target": "魏征",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "魏颢 > 魏殷(父) > 魏叔璘(父) > 魏征(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        
+        
+        {
+            "source": "李璘",
+            "target": "李隆基（唐玄宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李璘",
+            "target": "李旦（唐睿宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "李璘 > 李隆基（唐玄宗）(父) > 李旦（唐睿宗）(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李璘",
+            "target": "武曌（武则天）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "李璘 > 李隆基（唐玄宗）(父) > 武曌（武则天）(祖母)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李璘",
+            "target": "李治（唐高宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "李璘 > 李隆基（唐玄宗）(父) > 李旦（唐睿宗）(父) > 李治（唐高宗）(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "李璘",
+            "target": "李显（唐中宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "李璘 > 李隆基（唐玄宗）(父) > 李旦（唐睿宗）(父) > 李显（唐中宗）(兄)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        {
+            "source": "苏颋",
+            "target": "苏瓌",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "苏颋",
+            "target": "苏传素",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "曾孙; 重孙",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "苏颋",
+            "target": "苏亶",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "苏颋 > 苏瓌(父) > 苏亶(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "苏颋",
+            "target": "苏振",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "苏颋 > 苏传素(曾孙; 重孙) > 苏振(三子)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "苏颋",
+            "target": "苏夔",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "苏颋 > 苏瓌(父) > 苏亶(父) > 苏夔(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        
+        
+        {
+            "source": "杨玉环",
+            "target": "杨玄琰",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杨玉环",
+            "target": "杨玄雨",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "养父",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杨玉环",
+            "target": "李隆基（唐玄宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "丈夫",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杨玉环",
+            "target": "李旦（唐睿宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "杨玉环 > 李隆基（唐玄宗）(丈夫) > 李旦（唐睿宗）(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杨玉环",
+            "target": "武曌（武则天）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "杨玉环 > 李隆基（唐玄宗）(丈夫) > 武曌（武则天）(祖母)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杨玉环",
+            "target": "李治（唐高宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "杨玉环 > 李隆基（唐玄宗）(丈夫) > 李旦（唐睿宗）(父) > 李治（唐高宗）(父)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "杨玉环",
+            "target": "李显（唐中宗）",
+            "value": 40,
+            "edgeLength": 20,
+            "type": "杨玉环 > 李隆基（唐玄宗）(丈夫) > 李旦（唐睿宗）(父) > 李显（唐中宗）(兄)",
+            "lineStyle": {
+                "color": "black"
+            }
+        },
+        {
+            "source": "贾至",
+            "target": "贾言忠",
+            "value": 40,
+            "edgeLength": 820,
+            "type": "祖父",
+            "lineStyle": {
+                "color": "black"
+            }
+        }
+    ]
+}
