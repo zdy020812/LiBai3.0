@@ -1,0 +1,589 @@
+{
+    "李白": [
+        { "name": "李白", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李暠", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "许圉师", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李客", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李阳冰", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "许氏（李白妻）", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "宗氏（李白妻）", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李月圆", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李平阳", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李伯禽", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李颇黎", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李隆基（唐玄宗）", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "李祗", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "宋若思", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "赵悦", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "汪伦", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "殷佐明", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "李宪（唐让皇帝）", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "张镐", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "李昭", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "释中孚", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "韦渠牟", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "贾至", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "李晔", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "赵蕤", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "陆游", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "皮日休", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "吴融", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "杜甫", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "于逖", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "元丹丘", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "张谓", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "杨利物", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "吴指南", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "孔巢父", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "裴政", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "李叔卿", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "韩准", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "史钦", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "陶沔", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "张叔明", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "郭子仪", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "陆调", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "高适", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "谢良辅", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "魏颢", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "李良", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "李黯", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "李璘", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "苏颋", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "贺知章", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "司马承祯", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "吴筠", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "张垍", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "高力士", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "章仇兼琼", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "杨玉环", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "李暠": [
+        { "name": "李暠", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "尹氏", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李宝", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李歆", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李翻", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李豫", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "许圉师": [
+        { "name": "许圉师", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "许浑", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "许氏（李白妻）", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "李客": [
+        { "name": "李客", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "许氏（李白妻）", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "宗氏（李白妻）", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李月圆", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李平阳", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李伯禽", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李颇黎", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "李阳冰": [
+        { "name": "李阳冰", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李雍门", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李服之", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李怀一", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李行敦", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "许氏（李白妻）": [
+        { "name": "许氏（李白妻）", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "许圉师", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李客", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李月圆", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "宗氏（李白妻）": [
+        { "name": "宗氏（李白妻）", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李客", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李月圆", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "李月圆": [
+        { "name": "李月圆", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "许氏（李白妻）", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "宗氏（李白妻）", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李平阳", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李伯禽", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李颇黎", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "李平阳": [
+        { "name": "李平阳", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李伯禽", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李客", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李月圆", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "李伯禽": [
+        { "name": "李伯禽", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李平阳", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李客", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李月圆", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "李颇黎": [
+        { "name": "李颇黎", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李伯禽", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李客", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李月圆", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "李隆基（唐玄宗）": [
+        { "name": "李隆基（唐玄宗）", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李旦（唐睿宗）", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杨知庆", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杨玉环", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李真阳", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李洽", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "武曌(武则天）", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李治", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李显", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "窦诞", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "窦孝谌", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李淑", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李世民（唐太宗）", "category": 1, "desc": "", "itemStyle": "" },
+        {
+            "name": "长孙氏（李世民妻）",
+            "category": 1,
+            "desc": "",
+            "itemStyle": ""
+        },
+        { "name": "李白", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "杜甫", "category": 2, "desc": "", "itemStyle": "" }
+    ],
+    "李祗": [
+        { "name": "李祗", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李琨", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李岵", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李崌", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李巘", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李恪", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李寅", "category": 1, "desc": "", "itemStyle": "" },
+        {
+            "name": "李世民（唐太宗）",
+            "category": 1,
+            "desc": "唐太宗",
+            "itemStyle": ""
+        },
+        { "name": "李复", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "", "itemStyle": "" }
+    ],
+    "宋若思": [
+        { "name": "宋若思", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 4, "desc": "", "itemStyle": "" }
+    ],
+    "赵悦": [
+        { "name": "赵悦", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "", "itemStyle": "" }
+    ],
+    "汪伦": [
+        { "name": "汪伦", "category": 0, "desc": "唐代诗人", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "唐代诗人", "itemStyle": "" }
+    ],
+    "殷佐明": [
+        { "name": "殷佐明", "category": 0, "desc": "唐代诗人", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "唐代诗人", "itemStyle": "" }
+    ],
+    "李宪（唐让皇帝）": [{
+            "name": "李宪（唐让皇帝）",
+            "category": 0,
+            "desc": "唐代诗人",
+            "itemStyle": ""
+        },
+        {
+            "name": "李旦（唐睿宗）",
+            "category": 1,
+            "desc": "唐睿宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "刘氏（肃明顺圣皇后）",
+            "category": 1,
+            "desc": "肃明顺圣皇后",
+            "itemStyle": ""
+        },
+        {
+            "name": "李治（唐高宗）",
+            "category": 1,
+            "desc": "唐高宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "武曌（武则天）",
+            "category": 1,
+            "desc": "武则天",
+            "itemStyle": ""
+        },
+        {
+            "name": "李显（唐中宗）",
+            "category": 1,
+            "desc": "唐中宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "李世民（唐太宗）",
+            "category": 1,
+            "desc": "唐太宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "长孙皇后（李世民妻）",
+            "category": 1,
+            "desc": "李世民妻",
+            "itemStyle": ""
+        },
+        { "name": "李白", "category": 2, "desc": "唐代诗人", "itemStyle": "" },
+        { "name": "王维", "category": 4, "desc": "", "itemStyle": "" }
+    ],
+    "张镐": [
+        { "name": "张镐", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "唐代诗人", "itemStyle": "" }
+    ],
+    "李昭": [
+        { "name": "李昭", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "唐代诗人", "itemStyle": "" }
+    ],
+    "释中孚": [
+        { "name": "释中孚", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "唐代诗人", "itemStyle": "" }
+    ],
+    "韦渠牟": [
+        { "name": "韦渠牟", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 4, "desc": "唐代诗人", "itemStyle": "" },
+        { "name": "韦永", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "贾至": [
+        { "name": "贾至", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "唐代诗人", "itemStyle": "" },
+        { "name": "贾曾", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "贾言忠", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "李晔": [
+        { "name": "李晔", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 4, "desc": "唐代诗人", "itemStyle": "" },
+        { "name": "李畬", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李鹏", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李休烈", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "赵蕤": [
+        { "name": "赵蕤", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 4, "desc": "唐代诗人", "itemStyle": "" }
+    ],
+    "晏知止": [
+        { "name": "晏知止", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "晏殊", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "王乙", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "王氏(晏知止妻)", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "晏固", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "晏颖", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "晏郜", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "晏容", "category": 1, "desc": "", "itemStyle": "" }
+    ],
+    "陆游": [
+        { "name": "陆游", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "陆宰", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "唐意", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆洙", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆洋", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆涭", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "王氏(陆游妻)", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "某氏(陆游妾)", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆子程", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "桑世昌", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆子遹", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆一桂", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆佃", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "唐恕", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆珪", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆康民", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "陆涣", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "芮烨", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "孙叔豹", "category": 2, "desc": "", "itemStyle": "" },
+        { "name": "张浚", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "曾几", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "戴复古", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "毛德昭", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "呂友德", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "王嵎", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "饶节", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "杨万里", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "杜旟", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "顾禧", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "施元之", "category": 4, "desc": "", "itemStyle": "" },
+        { "name": "周必大", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "范成大", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "郑樵", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "尤袤", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "谭季壬", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "王琳", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "辛弃疾", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "刘应时", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "范中立", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "吕友德", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "尹穡", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "王时敘", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "林祖洽", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "胡僧孺", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "王时叙", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "曾黯", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "秦桧", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "皮日休": [
+        { "name": "皮日休", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "皮光业", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "皮粲", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "皮子良", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 4, "desc": "", "itemStyle": "" }
+    ],
+    "吴融": [
+        { "name": "吴融", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "王定保", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 4, "desc": "", "itemStyle": "" }
+    ],
+    "杜甫": [
+        { "name": "杜甫", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "杜审言", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜闲", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杨怡", "category": 1, "desc": "", "itemStyle": "" },
+        {
+            "name": "杨氏（杜甫妻）",
+            "category": 1,
+            "desc": "杜甫妻",
+            "itemStyle": ""
+        },
+        { "name": "杜宗文", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜宗武", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜嗣业", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜莘老", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "贺㧑", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜登", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜依艺", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜复", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜鱼石", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜礼", "category": 1, "desc": "", "itemStyle": "" },
+        {
+            "name": "李隆基（唐玄宗）",
+            "category": 2,
+            "desc": "唐玄宗",
+            "itemStyle": ""
+        },
+        { "name": "高适", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "严武", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "卫某（卫八）", "category": 5, "desc": "卫八", "itemStyle": "" },
+        { "name": "苏源明", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "史思明", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "安禄山", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "于逖": [
+        { "name": "于逖", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "高适", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "元结", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "元丹丘": [
+        { "name": "元丹丘", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "杜甫", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "孟浩然", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "张谓": [
+        { "name": "张谓", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "杨利物": [
+        { "name": "杨利物", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "吴指南": [
+        { "name": "吴指南", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "孔巢父": [
+        { "name": "孔巢父", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "孔如珪", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "孔务本", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "裴政": [
+        { "name": "裴政", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "李叔卿": [
+        { "name": "李叔卿", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "韩准": [
+        { "name": "韩准", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "史钦": [
+        { "name": "史钦", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "陶沔": [
+        { "name": "陶沔", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "张叔明": [
+        { "name": "张叔明", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "郭子仪": [
+        { "name": "郭子仪", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "郭敬之", "category": 1, "desc": "", "itemStyle": "" },
+        {
+            "name": "王氏（郭子仪妻）",
+            "category": 1,
+            "desc": "郭子仪妻",
+            "itemStyle": ""
+        },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "邵说", "category": 6, "desc": "", "itemStyle": "" },
+        { "name": "高郢", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "陆调": [
+        { "name": "陆调", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "高适": [
+        { "name": "高适", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "高崇文", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "高偘", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "高祐", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杜甫", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "于逖", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" },
+        { "name": "张九皋", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "谢良辅": [
+        { "name": "谢良辅", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "谢良弼", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "魏颢": [
+        { "name": "魏颢", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "魏殷", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "魏叔璘", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "魏征", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 2, "desc": "", "itemStyle": "" }
+    ],
+    "李良": [
+        { "name": "李良", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "李黯": [
+        { "name": "李黯", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "李璘": [
+        { "name": "李璘", "category": 0, "desc": "", "itemStyle": "" },
+        {
+            "name": "李隆基（唐玄宗）",
+            "category": 1,
+            "desc": "唐玄宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "李旦（唐睿宗）",
+            "category": 1,
+            "desc": "唐睿宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "武曌（武则天）",
+            "category": 1,
+            "desc": "武则天",
+            "itemStyle": ""
+        },
+        {
+            "name": "李治（唐高宗）",
+            "category": 1,
+            "desc": "唐高宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "李显（唐中宗）",
+            "category": 1,
+            "desc": "唐中宗",
+            "itemStyle": ""
+        },
+        { "name": "李白", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "苏颋": [
+        { "name": "苏颋", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "苏瓌", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "苏传素", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "苏亶", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "苏振", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "苏夔", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "贺知章": [
+        { "name": "贺知章", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "司马承祯": [
+        { "name": "司马承祯", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "吴筠": [
+        { "name": "吴筠", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "张垍": [
+        { "name": "张垍", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 5, "desc": "", "itemStyle": "" }
+    ],
+    "高力士": [
+        { "name": "高力士", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "章仇兼琼": [
+        { "name": "章仇兼琼", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "李白", "category": 6, "desc": "", "itemStyle": "" }
+    ],
+    "杨玉环": [
+        { "name": "杨玉环", "category": 0, "desc": "", "itemStyle": "" },
+        { "name": "杨玄琰", "category": 1, "desc": "", "itemStyle": "" },
+        { "name": "杨玄雨", "category": 1, "desc": "", "itemStyle": "" },
+        {
+            "name": "李旦（唐睿宗）",
+            "category": 1,
+            "desc": "唐玄宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "李隆基（唐玄宗）",
+            "category": 1,
+            "desc": "唐玄宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "武曌（武则天）",
+            "category": 1,
+            "desc": "武则天",
+            "itemStyle": ""
+        },
+        {
+            "name": "李治（唐高宗）",
+            "category": 1,
+            "desc": "唐高宗",
+            "itemStyle": ""
+        },
+        {
+            "name": "李显（唐中宗）",
+            "category": 1,
+            "desc": "唐中宗",
+            "itemStyle": ""
+        },
+        { "name": "李白", "category": 6, "desc": "", "itemStyle": "" }
+    ]
+}
