@@ -1,0 +1,498 @@
+[
+    {
+        "name": "君不见",
+        "value": 29
+    },
+    {
+        "name": "不见",
+        "value": 66
+    },
+    {
+        "name": "黄河",
+        "value": 24
+    },
+    {
+        "name": "天上",
+        "value": 26
+    },
+    {
+        "name": "白发",
+        "value": 17
+    },
+    {
+        "name": "人生",
+        "value": 16
+    },
+    {
+        "name": "千金",
+        "value": 17
+    },
+    {
+        "name": "夫子",
+        "value": 30
+    },
+    {
+        "name": "不足",
+        "value": 21
+    },
+    {
+        "name": "主人",
+        "value": 20
+    },
+    {
+        "name": "美酒",
+        "value": 25
+    },
+    {
+        "name": "万古",
+        "value": 28
+    },
+    {
+        "name": "明月",
+        "value": 58
+    },
+    {
+        "name": "青天",
+        "value": 61
+    },
+    {
+        "name": "可以",
+        "value": 15
+    },
+    {
+        "name": "峨眉",
+        "value": 25
+    },
+    {
+        "name": "壮士",
+        "value": 34
+    },
+    {
+        "name": "黄鹤",
+        "value": 32
+    },
+    {
+        "name": "不得",
+        "value": 22
+    },
+    {
+        "name": "何时",
+        "value": 33
+    },
+    {
+        "name": "不可",
+        "value": 74
+    },
+    {
+        "name": "如此",
+        "value": 33
+    },
+    {
+        "name": "猛虎",
+        "value": 20
+    },
+    {
+        "name": "杀人",
+        "value": 16
+    },
+    {
+        "name": "不如",
+        "value": 18
+    },
+    {
+        "name": "青云",
+        "value": 47
+    },
+    {
+        "name": "日月",
+        "value": 16
+    },
+    {
+        "name": "东流",
+        "value": 19
+    },
+    {
+        "name": "流水",
+        "value": 40
+    },
+    {
+        "name": "三千",
+        "value": 21
+    },
+    {
+        "name": "九天",
+        "value": 15
+    },
+    {
+        "name": "桃花",
+        "value": 23
+    },
+    {
+        "name": "不及",
+        "value": 17
+    },
+    {
+        "name": "江上",
+        "value": 15
+    },
+    {
+        "name": "秋风",
+        "value": 24
+    },
+    {
+        "name": "一杯",
+        "value": 17
+    },
+    {
+        "name": "千载",
+        "value": 15
+    },
+    {
+        "name": "云间",
+        "value": 17
+    },
+    {
+        "name": "千里",
+        "value": 41
+    },
+    {
+        "name": "青山",
+        "value": 27
+    },
+    {
+        "name": "高楼",
+        "value": 17
+    },
+    {
+        "name": "何处",
+        "value": 27
+    },
+    {
+        "name": "不能",
+        "value": 28
+    },
+    {
+        "name": "长风",
+        "value": 21
+    },
+    {
+        "name": "有时",
+        "value": 15
+    },
+    {
+        "name": "此地",
+        "value": 20
+    },
+    {
+        "name": "万里",
+        "value": 70
+    },
+    {
+        "name": "浮云",
+        "value": 47
+    },
+    {
+        "name": "游子",
+        "value": 16
+    },
+    {
+        "name": "落日",
+        "value": 26
+    },
+    {
+        "name": "故人",
+        "value": 32
+    },
+    {
+        "name": "江水",
+        "value": 17
+    },
+    {
+        "name": "水流",
+        "value": 17
+    },
+    {
+        "name": "叹息",
+        "value": 23
+    },
+    {
+        "name": "三月",
+        "value": 15
+    },
+    {
+        "name": "白玉",
+        "value": 26
+    },
+    {
+        "name": "仙人",
+        "value": 31
+    },
+    {
+        "name": "凤凰",
+        "value": 22
+    },
+    {
+        "name": "三山",
+        "value": 15
+    },
+    {
+        "name": "白鹭",
+        "value": 15
+    },
+    {
+        "name": "长安",
+        "value": 32
+    },
+    {
+        "name": "春风",
+        "value": 52
+    },
+    {
+        "name": "今日",
+        "value": 20
+    },
+    {
+        "name": "逸兴",
+        "value": 17
+    },
+    {
+        "name": "白日",
+        "value": 53
+    },
+    {
+        "name": "百年",
+        "value": 15
+    },
+    {
+        "name": "茫茫",
+        "value": 20
+    },
+    {
+        "name": "玉女",
+        "value": 16
+    },
+    {
+        "name": "何事",
+        "value": 17
+    },
+    {
+        "name": "黄金",
+        "value": 62
+    },
+    {
+        "name": "归去",
+        "value": 18
+    },
+    {
+        "name": "海上",
+        "value": 24
+    },
+    {
+        "name": "风吹",
+        "value": 47
+    },
+    {
+        "name": "相随",
+        "value": 17
+    },
+    {
+        "name": "秋月",
+        "value": 36
+    },
+    {
+        "name": "遥相",
+        "value": 17
+    },
+    {
+        "name": "登高",
+        "value": 22
+    },
+    {
+        "name": "天地",
+        "value": 50
+    },
+    {
+        "name": "芙蓉",
+        "value": 17
+    },
+    {
+        "name": "金陵",
+        "value": 30
+    },
+    {
+        "name": "荷花",
+        "value": 18
+    },
+    {
+        "name": "五月",
+        "value": 25
+    },
+    {
+        "name": "风流",
+        "value": 16
+    },
+    {
+        "name": "天下",
+        "value": 24
+    },
+    {
+        "name": "安可",
+        "value": 16
+    },
+    {
+        "name": "不知",
+        "value": 31
+    },
+    {
+        "name": "将军",
+        "value": 18
+    },
+    {
+        "name": "明主",
+        "value": 28
+    },
+    {
+        "name": "南山",
+        "value": 19
+    },
+    {
+        "name": "洞庭",
+        "value": 27
+    },
+    {
+        "name": "落花",
+        "value": 18
+    },
+    {
+        "name": "潇湘",
+        "value": 15
+    },
+    {
+        "name": "苍梧",
+        "value": 19
+    },
+    {
+        "name": "秋霜",
+        "value": 16
+    },
+    {
+        "name": "归来",
+        "value": 24
+    },
+    {
+        "name": "洛阳",
+        "value": 26
+    },
+    {
+        "name": "三十",
+        "value": 17
+    },
+    {
+        "name": "清风",
+        "value": 25
+    },
+    {
+        "name": "东山",
+        "value": 20
+    },
+    {
+        "name": "白云",
+        "value": 32
+    },
+    {
+        "name": "借问",
+        "value": 20
+    },
+    {
+        "name": "君王",
+        "value": 21
+    },
+    {
+        "name": "人间",
+        "value": 15
+    },
+    {
+        "name": "一朝",
+        "value": 22
+    },
+    {
+        "name": "天子",
+        "value": 24
+    },
+    {
+        "name": "龙虎",
+        "value": 17
+    },
+    {
+        "name": "楼船",
+        "value": 18
+    },
+    {
+        "name": "白马",
+        "value": 17
+    },
+    {
+        "name": "绿水",
+        "value": 21
+    },
+    {
+        "name": "东风",
+        "value": 22
+    },
+    {
+        "name": "安得",
+        "value": 19
+    },
+    {
+        "name": "长剑",
+        "value": 16
+    },
+    {
+        "name": "东海",
+        "value": 16
+    },
+    {
+        "name": "当时",
+        "value": 15
+    },
+    {
+        "name": "相思",
+        "value": 47
+    },
+    {
+        "name": "长相",
+        "value": 20
+    },
+    {
+        "name": "不尽",
+        "value": 15
+    },
+    {
+        "name": "桃李",
+        "value": 35
+    },
+    {
+        "name": "草木",
+        "value": 15
+    },
+    {
+        "name": "白雪",
+        "value": 15
+    },
+    {
+        "name": "令人",
+        "value": 16
+    },
+    {
+        "name": "秀色",
+        "value": 17
+    },
+    {
+        "name": "相逢",
+        "value": 21
+    },
+    {
+        "name": "少年",
+        "value": 20
+    }
+]
