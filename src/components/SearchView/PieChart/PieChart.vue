@@ -33,7 +33,7 @@ export default {
     this.myChart = echarts.init(document.getElementById('PieChart'));
     this.width = chartDom.getBoundingClientRect().width
     this.height = chartDom.getBoundingClientRect().height
-    this.option.series[0].radius[1] = this.height / 2;
+    this.option.series[0].radius[1] = this.height / 2.8;
     this.option.series[0].data = this.data["total"]
     option && this.myChart.setOption(this.option);
   },
