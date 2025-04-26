@@ -3,13 +3,17 @@
     <header>
       <nav>
         <input type="radio" name="tab" id="home" checked />
-        <input type="radio" name="tab" id="comment" />
         <input type="radio" name="tab" id="envelope" />
         <input type="radio" name="tab" id="user" />
-        <label for="home" class="home" @click="gotoRouter('Home')"><span>Home</span></label>
-        <label for="comment" class="comment" @click="gotoRouter('搜索')"><span>搜索</span></label>
-        <label for="envelope" class="envelope" @click="gotoRouter('轨迹')"><span>轨迹</span></label>
-        <label for="user" class="user" @click="gotoRouter('人物星图')"><span>人物星图</span></label>
+        <label for="home" class="home" @click="gotoRouter('Home')">
+          <span>概览</span>
+        </label>
+        <label for="envelope" class="envelope" @click="gotoRouter('行迹动画')">
+          <span>行迹动画</span>
+        </label>
+        <label for="user" class="user" @click="gotoRouter('人物星图')">
+          <span>人物星图</span>
+        </label>
         <div class="tab"></div>
       </nav>
       <div class="home-title">李白诗词可视化</div>
@@ -20,6 +24,7 @@
         <strong>当前时间:</strong>&nbsp;&nbsp;{{ nowTime }}
       </div>
     </header>
+
     <router-view class="router"></router-view>
   </div>
 </template>
@@ -33,9 +38,9 @@ export default {
     return {
       views: [
         { id: 1, name: "Home", type: "success" },
-        { id: 2, name: "搜索", type: "" },
-        { id: 3, name: "轨迹", type: "" },
-        { id: 4, name: "人物星图", type: "" },
+        // { id: 2, name: "搜索", type: "" },
+        { id: 2, name: "行迹动画", type: "" },
+        { id: 3, name: "人物星图", type: "" },
       ],
       nowTime: new Date().toLocaleString(),
     };
@@ -49,6 +54,7 @@ export default {
     }
   },
   setup() {
+    console.log("App.vue");
     const store = useStore();
     return { store };
   },
@@ -145,53 +151,49 @@ header nav input {
 header nav .tab {
   position: absolute;
   height: 100%;
-  width: 25%;
+  width: 33.33%;
   /* 渐变背景 自左向右 */
   /* background: linear-gradient(to right, #e8f230, #7fd523); */
-  background: url(./assets/picture/app/滑块背景.png) no-repeat center center/100% 100%;
+  background: url(./assets/picture/app/滑块背景.png) no-repeat center
+    center/100% 100%;
   border-radius: 50px;
   /* 添加动画过渡 贝塞尔曲线 */
   transition: 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-header nav #home:checked~label.home span,
-header nav #comment:checked~label.comment span,
-header nav #envelope:checked~label.envelope span,
-header nav #user:checked~label.user span,
-header nav #ceshi:checked~label.ceshi span {
+header nav #home:checked ~ label.home span,
+header nav #envelope:checked ~ label.envelope span,
+header nav #user:checked ~ label.user span,
+header nav #ceshi:checked ~ label.ceshi span {
   /* color: #33e6f7; */
   color: #803a23;
   transition: 0.6s;
 }
 
-header nav #home:checked~.tab {
+header nav #home:checked ~ .tab {
   left: 0%;
 }
 
-header nav #comment:checked~.tab {
-  left: 25%;
+header nav #envelope:checked ~ .tab {
+  left: 33.33%;
 }
 
-header nav #envelope:checked~.tab {
-  left: 50%;
-}
-
-header nav #user:checked~.tab {
-  left: 75%;
+header nav #user:checked ~ .tab {
+  left: 66.66%;
 }
 
 /* header nav #ceshi:checked ~ .tab {
   left: 80%;
 } */
 
-header> :nth-child(2) {
+header > :nth-child(2) {
   text-align: center;
   font-family: 楷体;
   font-size: 3vh;
   line-height: 6vh;
 }
 
-header> :nth-child(3) {
+header > :nth-child(3) {
   width: 24%;
   text-align: center;
   font-size: 2vh;

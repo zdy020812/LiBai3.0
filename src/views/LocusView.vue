@@ -1,7 +1,11 @@
 <template>
   <div class="locus-view">
     <!-- 地图 -->
-    <lb-mapbox v-if="isRouterAlive" class="mapbox"></lb-mapbox>
+    <lb-mapbox
+      v-if="isRouterAlive"
+      ref="mapComponent"
+      class="mapbox"
+    ></lb-mapbox>
 
     <div v-if="$store.state.isMessageDisplay" class="years">
       <strong>{{ $store.state.time }}年&nbsp;{{ age }}岁</strong>
@@ -15,7 +19,11 @@
 
     <!-- 事件轮播 -->
     <div class="messageContainer">
-      <div ref="messageBox" class="messageBox" v-if="$store.state.isMessageDisplay">
+      <div
+        ref="messageBox"
+        class="messageBox"
+        v-if="$store.state.isMessageDisplay"
+      >
         <div v-for="item in eventsList" :key="item">
           <strong>{{ item.things }}</strong>
         </div>
@@ -23,50 +31,93 @@
     </div>
 
     <!-- 诗词轮播 -->
-    <lb-Bar style="position: absolute;top: 30%;left:3%;width: 22%;height:35%;"></lb-Bar>
+    <lb-Bar
+      style="position: absolute; top: 30%; left: 3%; width: 22%; height: 35%"
+    ></lb-Bar>
     <!-- 人物 -->
     <lb-Figure v-if="$store.state.isMessageDisplay" class="figure"></lb-Figure>
     <!-- 暂停重来按钮 -->
     <div class="icon">
-      <div v-if="clickFalse" id="pause" @click="pause()"><el-icon>
+      <div v-if="clickFalse" id="pause" @click="pause()">
+        <el-icon size="24">
           <VideoPause />
-        </el-icon></div>
-      <div v-else id="play" @click="play()"><el-icon>
+        </el-icon>
+      </div>
+      <div v-else id="play" @click="play()">
+        <el-icon size="24">
           <VideoPlay />
-        </el-icon></div>
-      <div id="refresh" @click="refresh()"><el-icon>
+        </el-icon>
+      </div>
+      <div id="refresh" @click="refresh()">
+        <el-icon size="24">
           <RefreshRight />
-        </el-icon></div>
-      <div id="close" @click="close()"><el-icon>
+        </el-icon>
+      </div>
+      <div id="close" @click="close()">
+        <el-icon size="24">
           <CircleClose />
-        </el-icon></div>
-      <div id="disp" @click="$store.state.display = !$store.state.display"><el-icon>
+        </el-icon>
+      </div>
+      <div id="disp" @click="$store.state.display = !$store.state.display">
+        <el-icon size="24">
           <View />
-        </el-icon></div>
+        </el-icon>
+      </div>
     </div>
+
+    <!-- 搜索框 -->
+    <el-form class="search-container">
+      <el-select
+        v-model="inputValue"
+        filterable
+        placeholder="请输入诗词名称"
+        style="width: 180px"
+        value-key="title"
+        @change="handleSearch"
+      >
+        <el-option
+          v-for="item in courseData"
+          :key="item.title"
+          :label="item.title"
+          :value="item"
+          @click="$store.state.title = item.title"
+        ></el-option>
+      </el-select>
+    </el-form>
     <!-- 时间轴 -->
-    <lb-Time style="width: 80%;height: 23%;position: absolute;top: 65%;display: flex;justify-content: center"></lb-Time>
+    <lb-Time
+      style="
+        width: 60%;
+        height: 23%;
+        position: absolute;
+        top: 65%;
+        display: flex;
+        justify-content: center;
+      "
+    ></lb-Time>
     <!-- 进度条 -->
     <mini-map class="miniMap"></mini-map>
   </div>
 </template>
 
 <script>
-import MapBoxMini from '@/components/LocusView/MapBox/MinnMap.vue';
-import MapBoxLocus from '@/components/LocusView/MapBox/MapBoxLocus.vue';
-import FigureImage from '@/components/LocusView/FigureImage/FigureImage.vue';
+import MapBoxMini from "@/components/LocusView/MapBox/MinnMap.vue";
+import MapBoxLocus from "@/components/LocusView/MapBox/MapBoxLocus.vue";
+import FigureImage from "@/components/LocusView/FigureImage/FigureImage.vue";
 import TimeLine from "@/components/LocusView/TimeLine/TimeLine.vue";
 import BarChart from "@/components/LocusView/BarChart/BarChart.vue";
 import { useStore } from "vuex";
+import courseData from "@/assets/json/李白赏析最终版本.json";
+import searchData from "@/assets/json/诗词交互数据.json";
 
 export default {
-  name: 'CeShiView',
+  name: "CeShiView",
   components: {
-    'mini-map': MapBoxMini,
-    'lb-mapbox': MapBoxLocus,
-    'lb-Figure': FigureImage,
-    'lb-Time': TimeLine,
-    'lb-Bar': BarChart
+    "mini-map": MapBoxMini,
+    "lb-mapbox": MapBoxLocus,
+    "lb-Figure": FigureImage,
+    "lb-Time": TimeLine,
+    "lb-Bar": BarChart,
   },
   data: function () {
     return {
@@ -79,28 +130,34 @@ export default {
         {
           time: this.store.state.time,
           year: this.store.state.year,
-          things: this.store.state.things
-        }
-      ]
-    }
+          things: this.store.state.things,
+        },
+      ],
+      inputValue: "",
+      searchResult: [],
+      courseData,
+      valueLength: false,
+    };
   },
   methods: {
     progrossUpdate(value) {
       if (document.getElementById("current-progross")) {
-        document.getElementById("current-progross").style.width = (1 + (value / 11819) * 99) + '%'
+        document.getElementById("current-progross").style.width =
+          1 + (value / 11819) * 99 + "%";
       }
-      this.currentProgress = String((value / 11819) * 100).replace(/^(.*\..{2}).*$/, "$1") + '%'
+      this.currentProgress =
+        String((value / 11819) * 100).replace(/^(.*\..{2}).*$/, "$1") + "%";
     },
     ageUpdate(time) {
-      this.age = (time) % 700;
+      this.age = time % 700;
     },
     eventsUpdate() {
       let events = {
         time: this.store.state.time,
         year: this.store.state.year,
-        things: this.store.state.things
-      }
-      this.eventsList.push(events)
+        things: this.store.state.things,
+      };
+      this.eventsList.push(events);
       this.active_index++;
       this.$refs.messageBox.style.setProperty("--m-top", this.active_index);
       if (this.active_index > this.eventsList.length - 1) {
@@ -108,37 +165,68 @@ export default {
       }
     },
     refresh() {
-      this.reload()
-      this.store.state.currentRouter = 0
-      this.store.state.isMessageDisplay = true
-      this.store.state.kilometer = 0
-      this.store.state.timeline = 715
+      this.reload();
+      this.store.state.currentRouter = 0;
+      this.store.state.isMessageDisplay = true;
+      this.store.state.kilometer = 0;
+      this.store.state.timeline = 715;
     },
     pause() {
       this.store.state.isPause = false;
       this.clickFalse = false;
     },
     play() {
-      this.store.state.isPause = true
+      this.store.state.isPause = true;
       this.clickFalse = true;
-      this.store.state.time = this.store.state.time
+      this.store.state.time = this.store.state.time;
     },
     close() {
-      this.store.state.isclose = true
-      this.store.state.isMessageDisplay = false
+      this.store.state.isclose = true;
+      this.store.state.isMessageDisplay = false;
     },
     reload() {
       this.isRouterAlive = false;
       this.$nextTick(() => {
         this.isRouterAlive = true;
-      })
-    }
+      });
+    },
+    stringMatch() {
+      const regExp = new RegExp(this.inputValue, "gi");
+      this.searchResult = this.courseData.filter((item) => {
+        return (
+          item.title.match(regExp) ||
+          item.paragraphs.some((p) => p.match(regExp))
+        );
+      });
+    },
+    searchAction() {
+      this.stringMatch();
+      if (this.inputValue.length === 0) {
+        this.valueLength = false;
+        this.store.state.title = this.courseData[0].title;
+        this.store.state.isMessageDisplay = false;
+      }
+    },
+    handleSearch(value) {
+      this.pause();
+
+      console.log(searchData[value.title]);
+      this.store.state.title = value.title;
+      this.store.state.time = searchData[value.title].time;
+      this.store.state.place = searchData[value.title].place;
+      this.store.state.经纬度 = searchData[value.title].经纬度;
+
+      this.$nextTick(() => {
+        this.$refs.mapComponent.triggerFlyTo();
+      });
+    },
   },
   setup() {
     const store = useStore();
     return { store };
   },
   created() {
+    console.log(Object.keys(searchData));
     // 监听进度的变化
     this.$store.watch(
       (state) => state.currentProgress,
@@ -160,25 +248,23 @@ export default {
     this.$store.watch(
       (state) => state.timeline,
       (newVal) => {
-        this.reload()
-        this.store.state.currentRouter = 0
-        this.store.state.isMessageDisplay = true
-        this.store.state.kilometer = 0
+        this.reload();
+        this.store.state.currentRouter = 0;
+        this.store.state.isMessageDisplay = true;
+        this.store.state.kilometer = 0;
         this.timeline = newVal;
       }
     );
   },
   mounted() {
-    this.store.state.isMessageDisplay = true
-  }
-}
+    this.store.state.isMessageDisplay = true;
+  },
+};
 </script>
 
 <style scoped>
 .locus-view {
   position: relative;
-  width: 100%;
-  height: 100%;
   overflow: hidden;
 }
 
@@ -204,9 +290,9 @@ export default {
 
 .messageContainer {
   /* background: blue; */
-  left: 10vw;
+  left: 30px;
   bottom: 3vh;
-  width: 80vw;
+  width: 60%;
   height: 7vh;
   position: absolute;
   overflow: hidden;
@@ -220,12 +306,12 @@ export default {
   color: #c11f2f;
   /* color: #222222; */
   margin-top: calc(-7vh * var(--m-top));
-  transition: 1s
+  transition: 1s;
 }
 
 .messageBox div {
   height: 100%;
-  width: 80vw;
+  width: 100%;
 }
 
 .figure {
@@ -244,13 +330,17 @@ export default {
 
 .icon {
   position: absolute;
-  top: 5%;
-  right: 4%;
-  height: 10vh;
-  width: 15vw;
+  top: 30px;
+  right: 50px;
   display: flex;
-  font-size: 6vh;
+  gap: 8px;
   justify-content: center;
+}
+
+.search-container {
+  position: absolute;
+  top: 60px;
+  right: 50px;
 }
 
 .years {
@@ -269,10 +359,14 @@ export default {
 
 .miniMap {
   position: absolute;
-  top: 30%;
-  right: 3vw;
-  bottom: 30%;
+  right: 30px;
+  bottom: 30px;
   width: 25vw;
   height: 40%;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
-}</style>
+}
+
+#map:deep(.mapboxgl-ctrl) {
+  display: none !important;
+}
+</style>
